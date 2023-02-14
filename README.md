@@ -1,3 +1,3 @@
-Welcome to the **Windsor Fashions** GitHub Organization!
+# .github
 
-https://github.com/windsorfashions/
+This is a special GitHub repo that contains the README.md file for the organization in `/profile/README.md`.
